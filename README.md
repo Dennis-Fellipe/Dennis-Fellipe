@@ -6,6 +6,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Fellipe&layout=compact&langs_count=5&theme=merko&include_all_commits=true"/>
   </a>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Fellipe)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 

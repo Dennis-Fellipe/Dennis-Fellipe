@@ -1,4 +1,4 @@
-### Oie, eu sou o Dennis 
+### Oie! Eu sou o Dennis 
 
 <div align="center">
   <a href="https://github.com/Dennis-Fellipe">

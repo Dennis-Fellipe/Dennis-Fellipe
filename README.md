@@ -1,6 +1,6 @@
 ## Olá Mundo! Eu sou o Dennis Fellipe🦔
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dennis-Fellipe&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Fellipe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Fellipe&layout=compact&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
 <div align="center">
